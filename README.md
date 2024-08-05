@@ -9,6 +9,6 @@ Data set link : https://www.kaggle.com/datasets/shayanfazeli/heartbeat
 
 
 
-***2.Residual Inv Conv (RIC) Block***[!htp]
+***2.Residual Inv Conv (RIC) Block***
 ![image](https://github.com/umang4002/Arrythmiya/blob/main/RIC_best%20(1).png)
 
