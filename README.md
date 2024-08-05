@@ -36,3 +36,8 @@ The model has a total of 19.6K parameters. The performance metrics for each clas
 ## Dataset
 
 The dataset used in this project can be found on Kaggle: [Heartbeat Dataset](https://www.kaggle.com/datasets/shayanfazeli/heartbeat).
+
+
+## 4. References
+
+Li, Duo, et al. "Involution: Inverting the inherence of convolution for visual recognition." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2021.
